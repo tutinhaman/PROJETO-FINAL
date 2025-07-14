@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Estudar Java",
+    "description": "Revisar conceitos de Programação Orientada a Objetos e framework Swing",
+    "dueDate": "2025-07-15",
+    "status": "TODO"
+  },
+  {
+    "id": "sample-2",
+    "title": "Implementar Projeto Final",
+    "description": "Desenvolver o Gerenciador de Tarefas conforme especificações do enunciado",
+    "dueDate": "2025-07-20",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "sample-3",
+    "title": "Preparar Apresentação",
+    "description": "Criar vídeo de apresentação do sistema com duração máxima de 15 minutos",
+    "dueDate": "2025-07-25",
+    "status": "TODO"
+  },
+  {
+    "id": "sample-4",
+    "title": "Documentar Código",
+    "description": "Adicionar comentários e documentação ao código fonte",
+    "dueDate": "2025-07-18",
+    "status": "DONE"
+  }
+]
+
